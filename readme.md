@@ -1,0 +1,1 @@
+This is the project for Team Basswood for the Fall 2022 Erdos Institute Bootcamp. In this project, we aim to use the dataset for movies from <inser-link> to predict whether they will be box-office hits. 
